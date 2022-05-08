@@ -1,21 +1,38 @@
 # Impacts on Society
+Topic: Impacts of Computing
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Context: Grade Level 6-8
 
-## Plan
+Outcome: 
+        Students will understand and reflect on technology’s place in society. Explain the positive and negative impact of technology in a variety of social   
+        situations. Describe both the positive and negative impacts of technology that has had the most impact on their life.
 
-### Learning Objectives
+Overview: 
+        Begin the lesson by engaging students in a discussion of how technology makes a difference in their lives. The discussion helps to develop the desired   
+        classroom dynamics (collaboration) and skills that will appear throughout the class. This will allow students to describe verbally or in written format how 
+        technology has impacted their lives, to compare and contrast their answers to an adult answer. 
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+Learning Activities: 
+        Discuss issues of bias and accessibility in the design of existing technologies. 
+	  		          What would one find most difficult to do without technology?
 
-### Learning Activities
+	      Collaboration through strategies such as crowdsourcing (the practice of obtaining a computational artifact (is something created by a human using a 
+        computer and can be, but is not limited to, a program, an image, audio, a video, a presentation). 
+	                Does it make a difference what the application/computing is for?
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+        Describe tradeoffs between allowing information to be public and keeping information private and secure. 
+	                How computing is affecting personal privacy and the security of organizations?
 
-### Assessment
+Assessment:
+	     Students are to interview an adult and ask, "What technology has had the most impact on your life? In what ways has your life been affected?" 
 
-Describe how you plan to assess the learning objectives described above.
+       Students will record the adult’s answer and compare and contrast the answer with their own original answer in a brief paragraph.
+	
+       Self-Evaluation:
+                4. I got it! I understand everything by completing a short paragraph (compare & contrast) with a lot of evidence. 
 
-### Outcomes
+                3. I mostly get it! I understand most of it but not all of it by completing a short paragraph (compare & contrast) with some evidence. 
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+                2. I sort of get it! I am still a little confused by completing a short paragraph (compare & contrast) with little evidence. 
+
+                1. I don’t get it! I am confused by completing a short paragraph (compare & contrast) with no evidence. 
