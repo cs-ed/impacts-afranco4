@@ -24,9 +24,11 @@ Learning Activities:
 	                How computing is affecting personal privacy and the security of organizations?
 
 Assessment:
-	Students are to interview an adult and ask, "What technology has had the most impact on your life? In what ways has your life been affected?" 
+	Students are to interview an adult and ask,
+	"What technology has had the most impact on your life? 
+	"In what ways has your life been affected?" 
 
-        Students will record the adult’s answer and compare and contrast the answer with their own original answer in a brief paragraph.
+        Students will record the adult’s answer and compare and contrast the answer with their own original answer in a short paragraph.
 	
         Self-Evaluation:
                 4. I got it! I understand everything by completing a short paragraph (compare & contrast) with a lot of evidence. 
