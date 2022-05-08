@@ -14,10 +14,11 @@ Overview:
 
 Learning Activities: 
         Discuss issues of bias and accessibility in the design of existing technologies. 
-	  		          What would one find most difficult to do without technology?
+	  	       What would one find most difficult to do without technology?
 
-	Collaboration through strategies such as crowdsourcing (the practice of obtaining a computational artifact 
-	(is something created by a human using a computer and can be, but is not limited to, a program, an image, audio, a video, a presentation). 
+	Collaboration through strategies such as crowdsourcing 
+	(the practice of obtaining a computational artifact is something created by a human;
+	using a computer and can be, but is not limited to, a program, an image, audio, a video, a presentation). 
 	                Does it make a difference what the application/computing is for?
 
         Describe tradeoffs between allowing information to be public and keeping information private and secure. 
@@ -31,10 +32,10 @@ Assessment:
         Students will record the adult’s answer and compare and contrast the answer with their own original answer in a short paragraph.
 	
         Self-Evaluation:
-                4. I got it! I understand everything by completing a short paragraph (compare & contrast) with a lot of evidence. 
+        4. I got it! I understand everything by completing a short paragraph (compare & contrast) with a lot of evidence. 
 
-                3. I mostly get it! I understand most of it but not all of it by completing a short paragraph (compare & contrast) with some evidence. 
+        3. I mostly get it! I understand most of it but not all of it by completing a short paragraph (compare & contrast) with some evidence. 
 
-                2. I sort of get it! I am still a little confused by completing a short paragraph (compare & contrast) with little evidence. 
+        2. I sort of get it! I am still a little confused by completing a short paragraph (compare & contrast) with little evidence. 
 
-                1. I don’t get it! I am confused by completing a short paragraph (compare & contrast) with no evidence. 
+        1. I don’t get it! I am confused by completing a short paragraph (compare & contrast) with no evidence. 
