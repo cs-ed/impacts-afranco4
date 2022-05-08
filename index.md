@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cs-ed/impacts-afranco4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Topic: Impacts of Computing
 
 Context: Grade Level 6-8
