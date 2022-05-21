@@ -31,6 +31,7 @@ Assessment:
 * Students will record the adult’s answer and compare and contrast the answer with their own original answer in a brief paragraph.
 	
 * Self-Evaluation:
+  
   4. I got it! I understand everything by completing a short paragraph (compare & contrast) with a lot of evidence. 
 
   3. I mostly get it! I understand most of it but not all of it by completing a short paragraph (compare & contrast) with some evidence. 
@@ -41,4 +42,3 @@ Assessment:
 
 Outcomes:
 * The plan will help students focus on the negative and positive impacts of technology and how it can affect differently adults from adolescents.
-
