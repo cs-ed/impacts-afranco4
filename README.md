@@ -3,7 +3,7 @@ Topic: Impacts of Computing
 
 Context: Grade Level 6-8
 
-Outcome: 
+Objectives: 
 * Students will understand and reflect on technology’s place in society. 
 * Explain the positive and negative impact of technology in a variety of social situations. 
 * Describe both the positive and negative impacts of technology that has had the most impact on their life.
